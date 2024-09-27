@@ -1,0 +1,27 @@
+.container {
+    padding: 10px;
+    
+  }
+
+.greeting-container h2 {
+  font-size: 3rem;
+}
+
+.greeting-container h3 {
+  font-size: 2rem;
+}
+.greeting-container {
+  background-color: aliceblue;
+}
+
+.nav-container {
+    padding-top: 50px;
+}
+nav {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+

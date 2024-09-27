@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+    padding-top: 3rem;
+}
+.nav-container {
+    width: 40%;
+}
+
+
+.router-container {
+    width: 60%;
+}
