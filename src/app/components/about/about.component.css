@@ -1,0 +1,23 @@
+.container {
+    padding-top: 20px;
+  }
+  
+  h1 {
+    font-family: "Dosis", sans-serif;
+    color: rgb(233, 69, 96);
+    font-weight: normal;
+  }
+  
+  p {
+      color: white;
+      font-family: "Dosis", sans-serif;
+      font-size: 18px;
+  }
+
+  #highlight-red {
+    color: rgb(233, 69, 96);
+  }
+
+  #highlight-blue {
+   color: rgb(182, 225, 246)
+  }
