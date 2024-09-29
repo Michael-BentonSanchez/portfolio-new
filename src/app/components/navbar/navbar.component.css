@@ -1,27 +1,53 @@
+#name {
+  color:rgb(233, 69, 96);
+}
+
 .container {
-    padding: 10px;
-    
-  }
+  /* padding: 20px; */
+}
 
 .greeting-container h2 {
   font-size: 3rem;
+  font-family: "Dosis", sans-serif;
+  font-weight: normal;
+  color: white;
 }
 
 .greeting-container h3 {
   font-size: 2rem;
-}
-.greeting-container {
-  background-color: aliceblue;
+  font-family: "Dosis", sans-serif;
+  font-weight: normal;
+  color: rgb(182, 225, 246);
 }
 
 .nav-container {
-    padding-top: 50px;
+  padding-top: 50px;
 }
 nav {
   list-style: none;
+  font-family: "Dosis", sans-serif;
 }
 
 a {
   text-decoration: none;
+  font-family: "Dosis", sans-serif;
+  color: rgb(233, 69, 96);
+  font-size: 1.75rem;
+  
+}
+li {
+  margin-bottom: 1rem;
 }
 
+
+.typewriter-container {
+  margin-top: 0;
+  min-height: 75px;
+}
+.typing {
+  display: inline-block;
+  vertical-align: baseline; /* Adjust as needed */
+  font-family: "Dosis", sans-serif;
+  font-size: 1.5rem; /* Adjust font size to match other text */
+  color: rgb(233, 69, 96);
+}

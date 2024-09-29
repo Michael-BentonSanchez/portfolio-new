@@ -1,8 +1,11 @@
+
+
 .container {
     display: flex;
     flex-direction: row;
-    margin: 30px;
-    padding-top: 3rem;
+    padding: 100px 50px 30px 50px;
+   
+   
 }
 .nav-container {
     width: 40%;
