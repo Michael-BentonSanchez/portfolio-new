@@ -1,49 +1,48 @@
 .container {
-    padding-top: 20px;
-  }
-  
-  h1 {
-    font-family: "Dosis", sans-serif;
-    color: rgb(233, 69, 96);
-    font-weight: normal;
-  }
+  padding-top: 20px;
+  padding-right: 20%;
+}
 
-  h2 {
-    font-family: "Dosis", sans-serif;
-    font-size: 1.5rem;
-    color: white;
-    font-weight: normal;
-  }
+.header-container {
+  padding-right: 80%;
+  padding-bottom: 2rem;
+}
 
-  h3 {
-    font-family: "Dosis", sans-serif;
-    color: white;
-    font-weight: normal;
-    margin-bottom: 0;
-    margin-top: 0.35rem;
-  }
-  
-  p {
-      color: white;
-      font-family: "Dosis", sans-serif;
-      
-  }
-  
-  
-  .school-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding-right: 15%;
-    align-items: center;
-    margin-bottom: 0;
-  }
+h1 {
+  font-family: "Dosis", sans-serif;
+  color: rgb(233, 69, 96);
+  font-weight: normal;
+}
 
-  .education-container hr {
-    border: none;
+h2 {
+  font-family: "Dosis", sans-serif;
+  font-size: 1.5rem;
+  color: white;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Dosis", sans-serif;
+  color: white;
+  font-weight: normal;
+  margin-bottom: 0;
+  margin-top: 0rem;
+}
+
+p {
+  color: white;
+  font-family: "Dosis", sans-serif;
+}
+
+.school-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.education-container hr {
+  border: none;
   border-top: 1px solid rgb(200, 200, 200);
-  }
-  
-
-  
-  
+}

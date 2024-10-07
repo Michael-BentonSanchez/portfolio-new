@@ -8,6 +8,7 @@ import { HomeComponent } from './components/home/home.component';
 import { AboutComponent } from './components/about/about.component';
 import { NgxTypedJsModule } from 'ngx-typed-js';
 import { EducationComponent } from './components/education/education.component';
+import { ContactComponent } from './components/contact/contact.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { EducationComponent } from './components/education/education.component';
     NavbarComponent,
     HomeComponent,
     AboutComponent,
-    EducationComponent
+    EducationComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,

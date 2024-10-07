@@ -1,17 +1,17 @@
-
+.outer-container {
+  padding: 50px;
+  padding-left: 100px;
+}
 
 .container {
-    display: flex;
-    flex-direction: row;
-    padding: 100px 50px 30px 50px;
-   
-   
+  display: flex;
+  flex-direction: row;
+  padding: 100px 50px 30px 50px;
 }
 .nav-container {
-    width: 40%;
+  width: 40%;
 }
 
-
 .router-container {
-    width: 60%;
+  width: 60%;
 }
